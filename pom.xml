@@ -403,6 +403,13 @@
         <tatami.metrics.riemann.host></tatami.metrics.riemann.host>
         <tatami.metrics.riemann.port>5555</tatami.metrics.riemann.port>
         <tatami.metrics.riemann.tags></tatami.metrics.riemann.tags>
+        <cassandra.host>127.0.0.1:9160</cassandra.host>
+        <cassandra.keyspace>tatami</cassandra.keyspace>
+        <cassandra.username></cassandra.username>
+        <cassandra.password></cassandra.password>
+        
+        
+        
 
         <!-- Configuration -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
